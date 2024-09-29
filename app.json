@@ -7,28 +7,28 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/lakshaybajarang/Lakshay-Paid",
-    "success_url": "https://t.me/LuminantBots",
+    "repository": "https://github.com/hectorog612/tcdn",
+    "success_url": "https://t.me/dhggfjff",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "Enter Your Api Id",
-            "value": "20299588",
+            "value": "22308019",
             "required": true
         },
         "API_HASH": {
             "description": "Enter Your Api Hash",
-            "value": "f550d6179131c293d658f15f8c24f594",
+            "value": "fe49bff9eaadccecb58ded07aff33e88",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter Your Telegram Bot Token",
-            "value": "7022648745:AAFHefiq69tGQ0fhnpwtDgcWCQTUIuhw3Fc",
+            "value": "7131670643:AAEuQKLZjZ9MTgAC-lPE_XD1o5sfrx6JjYI",
             "required": true
         },
         "BOT_NAME": {
             "description": "Enter Your Telegram Bot Name",
-            "value": "lakshay-a-bot",
+            "value": "Acin2",
             "required": true
         },
         "MONGO_URI": {
