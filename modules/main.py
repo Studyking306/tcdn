@@ -44,7 +44,7 @@ OWNER_IDS = [7079041090]  # Replace with the actual owner user IDs
 
 # Global variables
 log_channel_id = -1002470919436
-authorized_users = []
+authorized_users = [7079041090]
 ALLOWED_CHANNEL_IDS = []
 my_name = "𝗛𝗲𝗰𝘁𝗼𝗿𝗢𝗴"
 overlay = None 
