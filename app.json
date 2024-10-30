@@ -28,12 +28,12 @@
         },
         "BOT_NAME": {
             "description": "Enter Your Telegram Bot Name",
-            "value": "Acin2",
+            "value": "gillidanda",
             "required": true
         },
         "MONGO_URI": {
             "description": "Enter your MongoDB connection string",
-            "value": "mongodb+srv://KunalUser:9050306314@lakshaykunal.k8d5iac.mongodb.net/?retryWrites=true&w=majority&appName=LakshayKunal",
+            "value": "mongodb+srv://akbarakbar4329:sFqcKBFqzsYobYfu@cluster0.keqgcg0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         }
     },
